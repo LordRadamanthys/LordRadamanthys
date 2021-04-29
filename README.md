@@ -1,12 +1,12 @@
 ### Hi guys, I'm Mateus Lima! :call_me_hand:
 
-💻 Programming Analyst at [Qintess](https://qintess.com/) <br>
+💻 Programming Analyst at [Tokio Marine Seguradora](https://www.tokiomarine.com.br/) <br>
 :desktop_computer: Studying Computer science <br>
 🇧🇷 Born and living in São Paulo, Brazil <br>
 
-Currently i am a RPA Developer :mechanical_arm: - :robot:
+I am currently a backend developer of Tokio Marine's service channels.
 
-Studying React Native for mobile :atom_symbol: , NodeJs and Cloud Computing :cloud:
+Studying React Native, Flutter and Kotlin for mobile :atom_symbol: , NodeJs, GoLang and Cloud Computing :cloud:
 
 ### Favorites Tools:
 <img align="left" alt="Java" width="60px" src="https://user-images.githubusercontent.com/49004830/89723232-ef05a580-d9c9-11ea-98c2-e2957d8bfda8.png" />
