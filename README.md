@@ -1,34 +1,46 @@
-### Hi guys, I'm Mateus Lima! :call_me_hand:
+## Hi guys, I'm Mateus Lima! :call_me_hand: 
 
 💻 Programming Analyst at [Tokio Marine Seguradora](https://www.tokiomarine.com.br/) <br>
 :desktop_computer: Studying Computer science <br>
 🇧🇷 Born and living in São Paulo, Brazil <br>
 
-I am currently a backend developer of Tokio Marine's service channels.
+I am currently a backend Java developer of Tokio Marine's service channels.
 
-Studying React Native, Flutter and Kotlin for mobile :atom_symbol: , NodeJs, GoLang and Cloud Computing :cloud:
-
-### Favorites Tools:
-<img align="left" alt="Java" width="60px" src="https://user-images.githubusercontent.com/49004830/89723232-ef05a580-d9c9-11ea-98c2-e2957d8bfda8.png" />
-<img align="left" alt="Docker" width="40px" src="https://user-images.githubusercontent.com/49004830/89722877-6e44aa80-d9c5-11ea-9460-92f638eec74f.png" />
-<img align="left" alt="Linux" width="40px" src="https://user-images.githubusercontent.com/49004830/89722898-a0560c80-d9c5-11ea-8ee6-9c457305e3c9.png" />
-<img align="left" alt="Kotlin" width="50px" src="https://user-images.githubusercontent.com/49004830/89722931-f460f100-d9c5-11ea-8ff6-457faee5456c.png" />
-<img align="left" alt="Azure" width="50px" src="https://user-images.githubusercontent.com/49004830/89722936-24a88f80-d9c6-11ea-90ef-f3379161e340.png" /> 
-<img align="left" alt="TypeScript" width="40px" src="https://user-images.githubusercontent.com/38151364/89708934-a7dbce00-d951-11ea-8ff1-1b7991267c05.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="40px" src="https://user-images.githubusercontent.com/38151364/89709011-5718a500-d952-11ea-8b62-cbba56cbe1cd.png" />
-<img align="left" alt="Selenium" width="40px" src="https://icon-library.com/images/selenium-icon/selenium-icon-19.jpg" />
-<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="C" width="40px" src="https://user-images.githubusercontent.com/38151364/89708902-4ca9db80-d951-11ea-9a2f-e81e66fb4d0d.png" /> <br/><br/>
+I'm currently studying Flutter, GoLang and cloud computing (aws) :cloud:
+ <div>
+  <a href="https://github.com/lordradamanthys">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordradamanthys&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordradamanthys&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+ 
+<div style="display: inline_block"><br>
 
 
-### Find me 🌎
-
-
-<a href="https://www.linkedin.com/in/mateuslm/" target="_blank">
-<img width=45 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
-</a>
- - 
-<a href="https://instagram.com/mateuslmatos" target="_blank">
-<img width=45 src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png">
-</a>
+<a href="https://spring.io/projects/spring-framework"><img align="center" alt="Mateus-spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+ <a href="https://docs.oracle.com/en/java/"><img align="center" alt="Mateus-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/"><img align="center" alt="Mateus-flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+   <a href="https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/january/typescript-understanding-typescript"><img align="center" alt="Mateus-Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://reactnative.dev/docs/getting-started"><img align="center" alt="Mateus-React" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+ <a href="https://kotlinlang.org/docs/getting-started.html"> <img align="center" alt="Mateus-kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
+ <br><br>
+  <a href="https://golang.org/doc/"><img align="center" alt="Mateus-go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+<a href="https://nodejs.org/en/docs/"> <img align="center" alt="Mateus-node"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+ <a href="https://www.python.org/doc/"><img align="center" alt="Mateus-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+ <a href="https://docs.mongodb.com/manual/"><img align="center" alt="Mateus-mongo"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+ <a href="https://flutter.dev/docs"><img align="center" alt="Mateus-flutter"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+<a href="https://docs.aws.amazon.com/index.html"> <img align="center" alt="Mateus-aws"  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+</div>
+  
+  ##
+ 
+<div style="display:inline;" > 
+   <a href = "mailto:mateuslima565@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/mateuslm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/MateuslMatos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ <a href="https://api.whatsapp.com/send?phone=5511951237661" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/mateuslmatos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+<div align="center" style="margin: 0 auto;">
+  <h4>See you space cowboy ... 👀</h4>
+  <img  width="250" heght="100" src="https://user-images.githubusercontent.com/49004830/129315028-9191b164-4d6b-4c55-b426-2bd8de661137.gif">
+</div>
