@@ -1,7 +1,7 @@
 ## Hi guys, I'm Mateus Lima! :call_me_hand: 
 
 💻 Programming Analyst at [Tokio Marine Seguradora](https://www.tokiomarine.com.br/) <br>
-:desktop_computer: Studying Computer science <br>
+:desktop_computer: Graduated in Computer Science <br>
 🇧🇷 Born and living in São Paulo, Brazil <br>
 
 I am currently a backend Java developer of Tokio Marine's service channels.
