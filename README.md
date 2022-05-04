@@ -1,12 +1,12 @@
 ## Hi guys, I'm Mateus Lima! :call_me_hand: 
 
-💻 Programming Analyst at [Tokio Marine Seguradora](https://www.tokiomarine.com.br/) <br>
+💻 Software Engineer at [Itaú](https://www.itau.com.br/) <br>
 :desktop_computer: Graduated in Computer Science <br>
 🇧🇷 Born and living in São Paulo, Brazil <br>
 
-I am currently a backend Java developer of Tokio Marine's service channels.
+I am currently a backend developer of Itaú.
 
-I'm currently studying Flutter, GoLang and cloud computing (aws) :cloud:
+I'm currently studying GoLang and cloud computing (aws) :cloud:
  <div>
   <a href="https://github.com/lordradamanthys">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordradamanthys&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
