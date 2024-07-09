@@ -15,19 +15,18 @@ I'm currently studying GoLang and cloud computing (aws) :cloud:
  
 <div style="display: inline_block"><br>
 
-
-<a href="https://spring.io/projects/spring-framework"><img align="center" alt="Mateus-spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+ <a href="https://golang.org/doc/"><img align="center" alt="Mateus-go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
  <a href="https://docs.oracle.com/en/java/"><img align="center" alt="Mateus-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/"><img align="center" alt="Mateus-flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
    <a href="https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/january/typescript-understanding-typescript"><img align="center" alt="Mateus-Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="https://reactnative.dev/docs/getting-started"><img align="center" alt="Mateus-React" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
  <a href="https://kotlinlang.org/docs/getting-started.html"> <img align="center" alt="Mateus-kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></a>
  <br><br>
-  <a href="https://golang.org/doc/"><img align="center" alt="Mateus-go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
-<a href="https://nodejs.org/en/docs/"> <img align="center" alt="Mateus-node"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+
+  
+ 
+ <a href="https://spring.io/projects/spring-framework"><img align="center" alt="Mateus-spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a> 
  <a href="https://www.python.org/doc/"><img align="center" alt="Mateus-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
  <a href="https://docs.mongodb.com/manual/"><img align="center" alt="Mateus-mongo"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
- <a href="https://flutter.dev/docs"><img align="center" alt="Mateus-flutter"  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
 <a href="https://docs.aws.amazon.com/index.html"> <img align="center" alt="Mateus-aws"  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 </div>
   
