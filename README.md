@@ -4,9 +4,8 @@
 :desktop_computer: Graduated in Computer Science <br>
 🇧🇷 Born and living in São Paulo, Brazil <br>
 
-I am currently a backend developer of Itaú.
+I am currently working at Itau as a software engineer.
 
-I'm currently studying GoLang and cloud computing (aws) :cloud:
  <div>
   <a href="https://github.com/lordradamanthys">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lordradamanthys&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> -->
